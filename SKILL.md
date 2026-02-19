@@ -3,8 +3,9 @@ name: propaganda-pattern-analysis
 description: Identify manipulation techniques in communication using Orwell's framework for understanding how language controls thought.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4752
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - propaganda-pattern-analysis
 - writing
